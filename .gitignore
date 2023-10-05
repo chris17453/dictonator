@@ -1,0 +1,12 @@
+*.tar
+*.tgx
+*.gz
+*.zip
+*.png
+*.jpg
+*.db
+*.mp3
+*.mkv
+*.ttf
+*.pdf
+instance/*
